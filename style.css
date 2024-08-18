@@ -37,8 +37,9 @@ html {
   color: #3A4647;
   justify-content: space-between;
   width: 10vw;
-  margin-left: 50px;
+  margin-left: 12px;
   margin-right: 50px;
+  scale: 0.75;
 }
 
 .behance, .artstation, .linkedin {
