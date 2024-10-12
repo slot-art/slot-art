@@ -28,10 +28,6 @@ html {
   margin-right: 50px;
 }
 
-.logo {
-  margin-top: -8px;
-}
-
 .icons {
   display: inline-flex;
   color: #3A4647;
@@ -57,13 +53,14 @@ html {
   height: 100px;
   text-align: center;
   margin-left: 26px;
+  display: inline-block;
 }
 
 .smallLogo {
   color: #B1DEE1;
-  font-size: 24px;
+  font-size: 36px;
   text-align: center;
-  margin-top: -68px;
+  display: inline-block;
 }
 
 .title {
